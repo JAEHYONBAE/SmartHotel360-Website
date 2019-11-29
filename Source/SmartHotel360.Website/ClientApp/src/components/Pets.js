@@ -34,7 +34,7 @@ class Pets extends Component {
             <div className='sh-pets-hero'>
                 <div className='sh-pets-wrapper'>
                     <img className='sh-pets-logo' alt="pet" src='/assets/images/logo.svg' />
-                    <h1 className='sh-pets-title'>The future of intelligent hospitality and connected workplace</h1>
+                    <h1 className='sh-pets-title'>[Pets] Azure Tech Run ! - The future of intelligent hospitality and connected workplace</h1>
                 </div>
             </div>
             <div className='sh-pets-margin'></div>
